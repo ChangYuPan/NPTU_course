@@ -6,6 +6,8 @@ Make sure you have installed Python and jupyter notebook before starting the cou
 
 Download [Anaconda](https://www.anaconda.com/products/individual) for a quick installation.
 
+Check the "Anaconda_install_guide" if you need.
+
 ---
 
 ### Outline
