@@ -13,7 +13,7 @@ Download [Anaconda](https://www.anaconda.com/products/individual) for a quick in
 2. Data structure
 3. Conditional expressions & loop
 4. Function
-5. Packages
-6. Summary
+5. Summary
+6. Packages
 7. File handling & exception
 8. Class
