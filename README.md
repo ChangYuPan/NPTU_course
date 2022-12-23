@@ -33,3 +33,6 @@ Microsoft Teams: [join the meet](https://teams.microsoft.com/l/meetup-join/19:3g
 - 11/12 (Sat) 14:00 - 17:00
 - 11/19 (Sat) 14:00 - 17:00
 - 12/03 (Sat) 14:00 - 17:00
+- 12/17 (Sat) 14:00 - 17:00
+- 12/24 (Sat) 14:00 - 17:00
+- 12/30 (Fri) 18:30 - 21:30
